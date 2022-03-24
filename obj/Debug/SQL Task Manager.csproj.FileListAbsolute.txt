@@ -1,0 +1,36 @@
+C:\Users\PC\source\repos\SqlPractice\bin\Debug\TestDb.mdf
+C:\Users\PC\source\repos\SqlPractice\bin\Debug\TestDb_log.ldf
+C:\Users\PC\source\repos\SqlPractice\bin\Debug\SqlPractice.exe.config
+C:\Users\PC\source\repos\SqlPractice\bin\Debug\SqlPractice.exe
+C:\Users\PC\source\repos\SqlPractice\bin\Debug\SqlPractice.pdb
+C:\Users\PC\source\repos\SqlPractice\obj\Debug\SQL Task Manager.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\SqlPractice\obj\Debug\SqlPractice.Properties.Resources.resources
+C:\Users\PC\source\repos\SqlPractice\obj\Debug\SQL Task Manager.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\SqlPractice\obj\Debug\SQL Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SqlPractice\obj\Debug\SqlPractice.exe
+C:\Users\PC\source\repos\SqlPractice\obj\Debug\SqlPractice.pdb
+C:\Users\PC\source\repos\SqlPractice\obj\Debug\SQL_Task_Manager.Form1.resources
+C:\Users\PC\source\repos\SQL Task Manager\bin\Debug\TestDb.mdf
+C:\Users\PC\source\repos\SQL Task Manager\bin\Debug\TestDb_log.ldf
+C:\Users\PC\source\repos\SQL Task Manager\bin\Debug\SqlPractice.exe.config
+C:\Users\PC\source\repos\SQL Task Manager\bin\Debug\SqlPractice.exe
+C:\Users\PC\source\repos\SQL Task Manager\bin\Debug\SqlPractice.pdb
+C:\Users\PC\source\repos\SQL Task Manager\obj\Debug\SQL Task Manager.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\SQL Task Manager\obj\Debug\SQL_Task_Manager.Form1.resources
+C:\Users\PC\source\repos\SQL Task Manager\obj\Debug\SqlPractice.Properties.Resources.resources
+C:\Users\PC\source\repos\SQL Task Manager\obj\Debug\SQL Task Manager.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\SQL Task Manager\obj\Debug\SQL Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SQL Task Manager\obj\Debug\SqlPractice.exe
+C:\Users\PC\source\repos\SQL Task Manager\obj\Debug\SqlPractice.pdb
+C:\Users\PC\Documents\GitHub\SQL-Manager\bin\Debug\TestDb.mdf
+C:\Users\PC\Documents\GitHub\SQL-Manager\bin\Debug\TestDb_log.ldf
+C:\Users\PC\Documents\GitHub\SQL-Manager\bin\Debug\SqlPractice.exe.config
+C:\Users\PC\Documents\GitHub\SQL-Manager\bin\Debug\SqlPractice.exe
+C:\Users\PC\Documents\GitHub\SQL-Manager\bin\Debug\SqlPractice.pdb
+C:\Users\PC\Documents\GitHub\SQL-Manager\obj\Debug\SQL Task Manager.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\SQL-Manager\obj\Debug\SQL_Task_Manager.Form1.resources
+C:\Users\PC\Documents\GitHub\SQL-Manager\obj\Debug\SqlPractice.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\SQL-Manager\obj\Debug\SQL Task Manager.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\SQL-Manager\obj\Debug\SQL Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\SQL-Manager\obj\Debug\SqlPractice.exe
+C:\Users\PC\Documents\GitHub\SQL-Manager\obj\Debug\SqlPractice.pdb
